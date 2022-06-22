@@ -1,0 +1,59 @@
+.container-but {
+	position: absolute;
+}
+.but {
+	position: fixed;
+	width: 80px;
+	height: 80px;
+	right: 16px;
+	bottom: 24px;
+	background: #59BD5A;
+}
+.but-span {
+	color: #FFFFFF;
+	font-size: 25px;
+}
+.bg-l {
+	background: #FFFFFF;
+}
+.bg {
+	background: #262626;
+}
+.bt {
+	background: #3B3B3B;
+}
+.btn-secondary:hover {
+	color:#fff;
+	background-color:#3B3B3B;
+	border-color:#545b62;
+}
+.btn-secondary:not(:disabled):not(.disabled):active, .btn-secondary:not(:disabled):not(.disabled).active,
+.show > .btn-secondary.dropdown-toggle {
+  	color: #fff;
+  	background-color: #3B3B3B;
+  	border-color: #4e555b;
+}
+.s22 {
+	font-size: 22px;
+}
+.s16 {
+	font-size: 16px;
+}
+.s14 {
+	font-size: 14px;
+}
+.s13 {
+	font-size: 13px;
+}
+.s11 {
+	font-size: 11px;
+}
+.gr {
+	color: #49A144;
+}
+.shad {
+	box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.linkblock {
+	cursor: pointer;
+}
